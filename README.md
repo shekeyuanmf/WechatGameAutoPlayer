@@ -4,9 +4,9 @@
 「加减大师」是腾讯推出的一款微信小游戏，玩法极其简单，它给出一个等式，要玩家在指定时间内判断等式的对错，每答对40个就可以获得娃娃成就。
 游戏界面截图如下
 <div align="center">
-  <img src="./Images/PlusSubstractMaster1.jpg">
-  <img src="./Images/PlusSubstractMaster2.jpg">
-  <img src="./Images/PlusSubstractMaster3.png"> 
+  <img src="./Images/PlusSubstractMaster1.jpg" height="150">
+  <img src="./Images/PlusSubstractMaster2.jpg"height="150">
+  <img src="./Images/PlusSubstractMaster3.png"height="150"> 
 </div>
 
 ## 使用方法
