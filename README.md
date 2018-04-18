@@ -10,6 +10,7 @@
   <img src="./Images/PlusSubstractMaster1.jpg" height="150">
   <img src="./Images/PlusSubstractMaster2.jpg"height="150">
   <img src="./Images/PlusSubstractMaster3.png"height="150"> 
+  <img src="./Images/PlusSubstractMaster4.gif"height="150">
 </div>
 
 **WechatGameAutoPlayer** 是用 python 语言实现的一个脚本，可通过 adb 从手机获得游戏界面截图，然后进行字符识别并判断所给等式的对错，实现自动点击。本脚本是一时娱乐之作，只为图个开心~~~
@@ -27,8 +28,6 @@ $ sudo pip3 install -r requirements.txt
 ```
 
 + 将手机调到游戏界面，运行 AutoPlay.py 文件即可
-
-+ ![玩法动态截图](./Images/PlusSubstractMaster4.gif）
 
 ## 实现原理
 + Adb: 获取手机游戏界面截图，并对截图进行灰度化和二值化处理
