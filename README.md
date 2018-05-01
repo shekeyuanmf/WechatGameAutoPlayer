@@ -1,6 +1,6 @@
 # 微信小游戏《加减大师》辅助
 ![language-python](https://img.shields.io/badge/language-python-blue.svg)
-![tested-OnePlus3](https://img.shields.io/badge/tested-OnePlus3-brightgreen.svg)
+[![Build Status](https://travis-ci.org/clouduan/WechatGameAutoPlayer.svg?branch=master)](https://travis-ci.org/clouduan/WechatGameAutoPlayer)
 [![license](https://img.shields.io/github/license/clouduan/WechatGameAutoPlayer.svg)](https://github.com/clouduan/WechatGameAutoPlayer/blob/master/LICENSE)
 
 ## 游戏说明
